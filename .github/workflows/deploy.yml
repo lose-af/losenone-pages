@@ -36,13 +36,12 @@ jobs:
     - name: Deploy to our production server.
       uses: mdallasanta/ssh-scp-deploy@v1.0.4
       with:
-        local: './pages/.vuepress/dist/'
+        local: './pages/.vuepress/dist/*'
         remote: '/data/wwwroot/www.losenone.cn/'
         host: ${{secrets.PROD_HOST}}
         port: ${{secrets.PROD_PORT}}
         user: ${{secrets.PROD_USER}}
         key: ${{secrets.PROD_KEY}}
         pre_upload: cd /data/wwwroot/www.losenone.cn/ && rm -rf *
-        post_upload: echo "This will be executed after the upload!"
         ssh_options: -o StrictHostKeyChecking=no
-        scp_options: -v
+        scp_options: -v -r
