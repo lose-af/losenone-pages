@@ -34,7 +34,7 @@ jobs:
     
     # Deploy.
     - name: Deploy to our production server.
-      uses: mdallasanta/ssh-scp-deploy@1.0.4
+      uses: mdallasanta/ssh-scp-deploy@v1.0.4
       with:
         local: './pages/.vuepress/dist/'
         remote: '/data/wwwroot/www.losenone.cn/'
