@@ -20,7 +20,7 @@ Having registration and supervision system in place, our guild system of our ser
 1. Player can set up their own guilds provided they have more than 3 players and registrate the guild by contacting the adimins. Before that, they should read and abide all the following regulations thouroughly.
 2. Guild’s chat group must be supervised by our admin’s team:(For the purpose of avoiding disputes and misunderstandings among the groups of players)
 
-- The chief sever's administrator `MonsoonR (雨季)`.
+- The chief sever's administrator `雨季先森 | MonsoonR`.
 - The adminstrator of order (`月光 | HMlight`).
 - Two admins from different guilds as supervisors.
   Having uncensored secret chat group is strictly prohibited. Once found, both the organizers and participants will be removed from the whitelist of the server. Additional punishment will be imflicted on them according to the nature and severeness of their offenses.
