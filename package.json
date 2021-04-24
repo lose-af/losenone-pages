@@ -1,0 +1,17 @@
+{
+  "name": "losenone-pages",
+  "version": "1.0.0",
+  "description": "Losenone Minecraft Server",
+  "repository": "git@github.com:lose-af/losenone-pages.git",
+  "author": "Losenone",
+  "license": "MIT",
+  "private": false,
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev pages",
+    "docs:build": "vuepress build pages"
+  },
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
