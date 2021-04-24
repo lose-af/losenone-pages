@@ -23,6 +23,12 @@ module.exports = {
         ],
       },
       {
+        title: "公开文件",
+        path: "/docs/public_files/",
+        sidebarDepth: 2,
+        children: ["/docs/public_files/moderation_rules"],
+      },
+      {
         title: "洛书南文档",
         path: "/docs/",
         sidebarDepth: 2,
