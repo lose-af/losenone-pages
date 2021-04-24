@@ -29,6 +29,7 @@ module.exports = {
         children: [
           "/docs/public_files/moderation_rules",
           "/docs/public_files/review_rules",
+          "/docs/public_files/guild_rules",
         ],
       },
       {
@@ -46,6 +47,20 @@ module.exports = {
       { text: "文档", link: "/docs/" },
       { text: "Google", link: "https://google.com" },
     ],
+
+    // 多语言
+    locales: {
+      "/": {
+        lang: "zh-CN", // 将会被设置为 <html> 的 lang 属性
+        title: "洛书南 | Losenone",
+        description: "洛书南 Minecraft 服务器.",
+      },
+      "/en/": {
+        lang: "en-US",
+        title: "Losenone",
+        description: "Losenone Minecraft Server.",
+      },
+    },
 
     // 代码仓库设置
     repo: "lose-af/losenone-pages",

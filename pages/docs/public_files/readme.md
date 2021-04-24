@@ -12,3 +12,5 @@ next: false
 > [洛书南 | Losenone 服务器管理条例](/docs/public_files/moderation_rules.html)
 >
 > [洛书南 | Losenone 服务器审核规范](/docs/public_files/review_rules.html)
+>
+> [洛书南 | Losenone 服务器公会约束条例](/docs/public_files/guild_rules.html)
