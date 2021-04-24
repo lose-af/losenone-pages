@@ -3,6 +3,7 @@ module.exports = {
     lineNumbers: true,
   },
   themeConfig: {
+    // 侧边栏
     sidebar: [
       {
         title: "首页",
@@ -29,10 +30,22 @@ module.exports = {
         children: ["/docs/"],
       },
     ],
+
+    // 导航栏
     nav: [
       { text: "首页", link: "/" },
       { text: "文档", link: "/docs/" },
       { text: "Google", link: "https://google.com" },
     ],
+
+    // 代码仓库设置
+    repo: "lose-af/losenone-pages",
+    repoLabel: "查看源代码",
+    docsDir: "pages",
+    editLinks: true,
+    editLinkText: "帮助我们改善此页面！",
+
+    // 最后更新时间
+    lastUpdated: "最后更新时间",
   },
 };
