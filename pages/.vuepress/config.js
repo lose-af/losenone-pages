@@ -42,6 +42,7 @@ module.exports = {
     repo: "lose-af/losenone-pages",
     repoLabel: "查看源代码",
     docsDir: "pages",
+    docsBranch: "main",
     editLinks: true,
     editLinkText: "帮助我们改善此页面！",
 
