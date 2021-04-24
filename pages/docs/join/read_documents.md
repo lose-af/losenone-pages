@@ -13,7 +13,7 @@ lang: zh-CN
 
 > [《洛书南 | Losenone 服务器管理条例》](/docs/public_files/moderation_rules.html)
 >
-> [《洛书南 | Losenone 服务器审核规范》](http://lsn.yaasasi.cn/1891883)
+> [《洛书南 | Losenone 服务器审核规范》](/docs/public_files/review_rules.html)
 >
 > [《Kawaii 公共社区交流公约》](http://kawaii.yaasasi.cn/)
 

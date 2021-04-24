@@ -26,7 +26,10 @@ module.exports = {
         title: "公开文件",
         path: "/docs/public_files/",
         sidebarDepth: 2,
-        children: ["/docs/public_files/moderation_rules"],
+        children: [
+          "/docs/public_files/moderation_rules",
+          "/docs/public_files/review_rules",
+        ],
       },
       {
         title: "洛书南文档",
