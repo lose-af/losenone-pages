@@ -14,5 +14,5 @@ lang: zh-CN
 > [点此加入审核群](https://qm.qq.com/cgi-bin/qm/qr?k=zLs2u7prKFwifKPhV9FCx_kjorhBHUwr&jump_from=webapi)
 
 ::: warning
-`洛书南 |审核群` 只允许 QQ 等级大于或等于 16 级的 QQ 账号加入（即一个太阳）
+`洛书南 | 审核群` 只允许 QQ 等级大于或等于 16 级的 QQ 账号加入（即一个太阳）
 :::
