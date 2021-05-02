@@ -17,16 +17,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
+      # Setup Node.js 14.x
       - name: Setup Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v2
         with:
           node-version: ${{ matrix.node-version }}
 
+      # Dependency cache. (Yarn cache and node_modules)
       - name: Get Yarn Cache Directory Path
         id: yarn-cache-dir-path
         run: |
           echo "::set-output name=dir::$(yarn cache dir)"
-          echo "::set-output name=version::$(yarn -v)"
 
       - name: Restore Yarn Chche
         uses: actions/cache@v2
@@ -39,15 +40,18 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-yarn-
 
+      # If the dependency cache was hit, this step should take 0s to run.
       - name: Install Dependencies
         run: yarn install --frozen-lockfile
 
       - name: Build
         run: yarn pages:build
 
+      # Compress /dist in a gzipped tarball, can increase the upload speed.
       - name: Package
         run: cd ./pages/.vuepress/dist && tar -czvf dist.tar.gz *
 
+      # Removing, uploading, unzipping and removing again.
       - name: Deploy
         uses: mdallasanta/ssh-scp-deploy@v1.0.4
         with:
