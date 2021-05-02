@@ -16,7 +16,6 @@ jobs:
     strategy:
       matrix:
         node-version: [14.x]
-        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
       # Checkout.
@@ -39,13 +38,13 @@ jobs:
 
       # Package.
       - name: Package
-        run: cd ./pages/.vuepress/dist/ && tar -czvf dist.tar.gz *
+        run: cd ./pages/.vuepress/dist && tar -czvf dist.tar.gz *
 
       # Deploy.
       - name: Deploy
         uses: mdallasanta/ssh-scp-deploy@v1.0.4
         with:
-          local: "./dist.tar.gz"
+          local: "./pages/.vuepress/dist/dist.tar.gz"
           remote: "/data/wwwroot/www.losenone.cn"
           host: ${{secrets.PROD_HOST}}
           port: ${{secrets.PROD_PORT}}
