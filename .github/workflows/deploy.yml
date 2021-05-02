@@ -5,13 +5,12 @@ name: Build and deploy
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     strategy:
@@ -20,28 +19,33 @@ jobs:
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
-    # Checkout.
-    - name: Checkout
-      uses: actions/checkout@v2
-    
-    # Build.
-    - name: Use Node.js ${{ matrix.node-version }} to build.
-      uses: actions/setup-node@v2
-      with:
-        node-version: ${{ matrix.node-version }}
-    - run: yarn install
-    - run: yarn docs:build
-    
-    # Deploy.
-    - name: Deploy to our production server.
-      uses: mdallasanta/ssh-scp-deploy@v1.0.4
-      with:
-        local: './pages/.vuepress/dist/*'
-        remote: '/data/wwwroot/www.losenone.cn/'
-        host: ${{secrets.PROD_HOST}}
-        port: ${{secrets.PROD_PORT}}
-        user: ${{secrets.PROD_USER}}
-        key: ${{secrets.PROD_KEY}}
-        pre_upload: cd /data/wwwroot/www.losenone.cn/ && rm -rf *
-        ssh_options: -o StrictHostKeyChecking=no
-        scp_options: -v -r
+      # Checkout.
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      # Build.
+      - name: Use Node.js ${{ matrix.node-version }} to build.
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: yarn install
+      - run: yarn pages:build
+
+      # Package.
+      - name: Package
+        run: tar -czvf dist.tar.gz ./pages/.vuepress/dist/*
+
+      # Deploy.
+      - name: Deploy to our production server.
+        uses: mdallasanta/ssh-scp-deploy@v1.0.4
+        with:
+          local: "./dist.tar.gz"
+          remote: "/data/wwwroot/www.losenone.cn/"
+          host: ${{secrets.PROD_HOST}}
+          port: ${{secrets.PROD_PORT}}
+          user: ${{secrets.PROD_USER}}
+          key: ${{secrets.PROD_KEY}}
+          pre_upload: cd /data/wwwroot/www.losenone.cn && rm -rf *
+          post_upload: cd /data/wwwroot/www.losenone.cn && tar -xzvf dist.tar.gz && rm -f dist.tar.gz
+          ssh_options: -o StrictHostKeyChecking=no
+          scp_options: -v -r

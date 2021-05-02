@@ -8,8 +8,8 @@
   "private": false,
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vuepress dev pages",
-    "docs:build": "vuepress build pages"
+    "pages:dev": "vuepress dev pages",
+    "pages:build": "vuepress build pages"
   },
   "devDependencies": {
     "vuepress": "^1.8.2"
