@@ -34,40 +34,50 @@ module.exports = {
         backToHome: "返回主页",
         openInNewWindow: "在新窗口中打开",
 
-        navbar: [{ text: "文档", link: "/docs/" }],
-
-        sidebar: [
-          {
-            text: "审核指南",
-            link: "/docs/join/",
-            isGroup: true,
-            children: [
-              "/docs/join/",
-              "/docs/join/read_documents.md",
-              "/docs/join/qq_group.md",
-              "/docs/join/why.md",
-              "/docs/join/recheck.md",
-              "/docs/join/fill_form.md",
-              "/docs/join/success.md",
-            ],
-          },
-          {
-            text: "公开文件",
-            link: "/docs/public_files/",
-            isGroup: true,
-            children: [
-              "/docs/public_files/moderation_rules.md",
-              "/docs/public_files/review_rules.md",
-              "/docs/public_files/guild_rules.md",
-            ],
-          },
-          {
-            text: "知识库",
-            link: "/docs/",
-            isGroup: true,
-            children: ["/docs/"],
-          },
+        navbar: [
+          { text: "知识库", link: "/docs/knowledge_base/" },
+          { text: "加入我们", link: "/docs/join/" },
+          { text: "公开文件", link: "/docs/public_files/" },
         ],
+
+        sidebar: {
+          "/docs/knowledge_base/": [
+            {
+              text: "知识库",
+              link: "/docs/",
+              isGroup: true,
+              children: ["/docs/knowledge_base/"],
+            },
+          ],
+          "/docs/join/": [
+            {
+              text: "审核指南",
+              link: "/docs/join/",
+              isGroup: true,
+              children: [
+                "/docs/join/",
+                "/docs/join/read_documents.md",
+                "/docs/join/qq_group.md",
+                "/docs/join/why.md",
+                "/docs/join/recheck.md",
+                "/docs/join/fill_form.md",
+                "/docs/join/success.md",
+              ],
+            },
+          ],
+          "/docs/public_files/": [
+            {
+              text: "公开文件",
+              link: "/docs/public_files/",
+              isGroup: true,
+              children: [
+                "/docs/public_files/moderation_rules.md",
+                "/docs/public_files/review_rules.md",
+                "/docs/public_files/guild_rules.md",
+              ],
+            },
+          ],
+        },
       },
       "/en/": {
         lang: "en-US",
@@ -83,40 +93,50 @@ module.exports = {
         backToHome: "Back to home",
         openInNewWindow: "open in new window",
 
-        navbar: [{ text: "Docs", link: "/docs/" }],
-
-        sidebar: [
-          {
-            text: "Join Losenone",
-            link: "/docs/join/",
-            isGroup: true,
-            children: [
-              "/docs/join/",
-              "/docs/join/read_documents.md",
-              "/docs/join/qq_group.md",
-              "/docs/join/why.md",
-              "/docs/join/recheck.md",
-              "/docs/join/fill_form.md",
-              "/docs/join/success.md",
-            ],
-          },
-          {
-            text: "Public Files",
-            link: "/docs/public_files/",
-            isGroup: true,
-            children: [
-              "/docs/public_files/moderation_rules.md",
-              "/docs/public_files/review_rules.md",
-              "/en/docs/public_files/guild_rules.md",
-            ],
-          },
-          {
-            text: "Knowledge Base",
-            link: "/docs/",
-            isGroup: true,
-            children: ["/docs/"],
-          },
+        navbar: [
+          { text: "Knowledge Base", link: "/en/docs/knowledge_base/" },
+          { text: "Join Us", link: "/en/docs/join/" },
+          { text: "Public Files", link: "/en/docs/public_files/" },
         ],
+
+        sidebar: {
+          "/en/docs/knowledge_base/": [
+            {
+              text: "Knowledge Base",
+              link: "/en/docs/knowledge_base/",
+              isGroup: true,
+              children: ["/en/docs/knowledge_base/"],
+            },
+          ],
+          "/en/docs/join/": [
+            {
+              text: "Joining Losenone",
+              link: "/docs/join/",
+              isGroup: true,
+              children: [
+                "/docs/join/",
+                "/docs/join/read_documents.md",
+                "/docs/join/qq_group.md",
+                "/docs/join/why.md",
+                "/docs/join/recheck.md",
+                "/docs/join/fill_form.md",
+                "/docs/join/success.md",
+              ],
+            },
+          ],
+          "/en/docs/public_files/": [
+            {
+              text: "Public Files",
+              link: "/docs/public_files/",
+              isGroup: true,
+              children: [
+                "/docs/public_files/moderation_rules.md",
+                "/docs/public_files/review_rules.md",
+                "/en/docs/public_files/guild_rules.md",
+              ],
+            },
+          ],
+        },
       },
     },
   },
