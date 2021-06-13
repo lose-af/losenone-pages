@@ -3,7 +3,7 @@ title: 前言
 lang: zh-CN
 sidebarDepth: 0
 prev: false
-next: /docs/join/qq_group.md
+next: ./qq_group.md
 ---
 
 # 加入洛书南 Minecraft 社区

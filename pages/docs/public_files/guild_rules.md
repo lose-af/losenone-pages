@@ -9,7 +9,7 @@ next: false
 # 洛书南丨 Losenone 服务器公会约束条例
 
 ::: tip
-English version: [Click Here](/en/docs/public_files/guild_rules.html)
+English version: [Click Here](/en/docs/public_files/guild_rules.md)
 :::
 
 ## 公会介绍

@@ -9,7 +9,7 @@ next: false
 # Losenone Guild Regulations
 
 ::: tip
-中文版本: [点此前往](/docs/public_files/guild_rules.html)
+中文版本: [点此前往](/docs/public_files/guild_rules.md)
 :::
 
 ## Guild (system) of LOSENONE server (the friendly in-game players group)
