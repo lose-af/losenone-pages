@@ -10,19 +10,22 @@ lang: zh-CN
 这里是洛书南 Minecraft 服务器的官网和文档, 不过现在还没有内容.
 :::
 
-```json{8-9}
+```json{11-12}
 {
   "name": "losenone-pages",
   "version": "1.0.0",
   "description": "Losenone Minecraft Server",
-  "main": "index.js",
+  "repository": "git@github.com:lose-af/losenone-pages.git",
+  "author": "Losenone",
   "license": "MIT",
+  "private": false,
+  "main": "index.js",
   "scripts": {
-    "docs:dev": "vuepress dev pages",
-    "docs:build": "vuepress build pages"
+    "pages:dev": "vuepress dev pages",
+    "pages:build": "vuepress build pages"
   },
   "devDependencies": {
-    "vuepress": "^1.8.2"
+    "vuepress": "^2.0.0-beta.18"
   }
 }
 ```

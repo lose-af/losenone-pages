@@ -1,6 +1,7 @@
 ---
 title: 洛书南 | Losenone 服务器管理条例
 lang: zh-CN
+sidebarDepth: 1
 prev: false
 next: false
 ---

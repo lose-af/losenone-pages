@@ -1,6 +1,7 @@
 ---
 title: Losenone Guild Regulations
 lang: en-US
+sidebarDepth: 1
 prev: false
 next: false
 ---

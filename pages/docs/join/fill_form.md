@@ -1,6 +1,7 @@
 ---
 title: 填写素质审查
 lang: zh-CN
+sidebarDepth: 0
 next: false
 ---
 

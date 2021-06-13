@@ -1,6 +1,7 @@
 ---
 title: 公开文件
 lang: zh-CN
+sidebarDepth: 0
 prev: false
 next: false
 ---

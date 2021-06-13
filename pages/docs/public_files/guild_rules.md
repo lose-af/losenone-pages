@@ -1,6 +1,7 @@
 ---
 title: 洛书南丨 Losenone 服务器公会约束条例
 lang: zh-CN
+sidebarDepth: 1
 prev: false
 next: false
 ---

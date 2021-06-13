@@ -1,6 +1,7 @@
 ---
 title: 前言
 lang: zh-CN
+sidebarDepth: 0
 prev: false
 ---
 
@@ -9,7 +10,7 @@ prev: false
 ## 前言
 
 > (｡･∀･)ﾉﾞ嗨 ~ ~ ~
->
+
 > 哈喽～初次见面, 请多指教!
 >
 > ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄ ~ ~ ~

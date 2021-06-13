@@ -1,6 +1,7 @@
 ---
 title: 阅读洛书南社区相关资料
 lang: zh-CN
+sidebarDepth: 0
 ---
 
 # 加入洛书南 Minecraft 社区

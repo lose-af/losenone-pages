@@ -1,6 +1,7 @@
 ---
 title: 需要审核的缘由
 lang: zh-CN
+sidebarDepth: 0
 ---
 
 # 加入洛书南 Minecraft 社区

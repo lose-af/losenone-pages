@@ -1,6 +1,7 @@
 ---
 title: 加入 洛书南 | 审核群
 lang: zh-CN
+sidebarDepth: 0
 ---
 
 # 加入洛书南 Minecraft 社区
