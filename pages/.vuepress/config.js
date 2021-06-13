@@ -1,4 +1,5 @@
 module.exports = {
+  head: [["link", { rel: "icon", href: "/images/logo.png" }]],
   locales: {
     "/": {
       lang: "zh-CN",
@@ -12,6 +13,7 @@ module.exports = {
     },
   },
   themeConfig: {
+    logo: "/images/logo.png",
     repo: "lose-af/losenone-pages",
     docsDir: "pages",
     docsBranch: "main",
@@ -41,10 +43,12 @@ module.exports = {
             isGroup: true,
             children: [
               "/docs/join/",
-              "/docs/join/qq_group.md",
               "/docs/join/read_documents.md",
+              "/docs/join/qq_group.md",
               "/docs/join/why.md",
+              "/docs/join/recheck.md",
               "/docs/join/fill_form.md",
+              "/docs/join/success.md",
             ],
           },
           {
@@ -88,10 +92,12 @@ module.exports = {
             isGroup: true,
             children: [
               "/docs/join/",
-              "/docs/join/qq_group.md",
               "/docs/join/read_documents.md",
+              "/docs/join/qq_group.md",
               "/docs/join/why.md",
+              "/docs/join/recheck.md",
               "/docs/join/fill_form.md",
+              "/docs/join/success.md",
             ],
           },
           {
@@ -101,7 +107,7 @@ module.exports = {
             children: [
               "/docs/public_files/moderation_rules.md",
               "/docs/public_files/review_rules.md",
-              "/docs/public_files/guild_rules.md",
+              "/en/docs/public_files/guild_rules.md",
             ],
           },
           {

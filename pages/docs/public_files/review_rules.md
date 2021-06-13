@@ -11,12 +11,12 @@ next: false
 ## 第一项 审核总体规范
 
 1. 洛书南 | Losenone 旗下服务器实行白名单审核制度, 这有利于初步观察新进玩家行为规范、人格素养, 减少不良玩家的加入, 基本保障玩家的游戏体验, 所以任何新进玩家都不得跳过审核阶段, 直接进入 洛书南 | Losenone 旗下服务器游玩.
-2. 所有的新进玩家须要跟随 [《洛书南 Minecraft 服务器审核指南》](/docs/join/) 中的审核流程进行审核.
-3. 所有的新进玩家在 洛书南 | Losenone 社区中的审核结果通过 QQ 群通知! 您可以通过输入 QQ 群号码(1014605406）的方式提交 `洛书南 | 审核群` 的入群申请, 亦可以通过我们的官网 ([https://www.losenone.cn/](https://www.losenone.cn/)) 或 [《洛书南 Minecraft 服务器审核指南》](/docs/join/) 的 [加入 洛书南 | 审核群](/docs/join/qq_group.html) 板块快捷地提交 `洛书南 | 审核群` 的入群申请.
+2. 所有的新进玩家须要跟随 [《洛书南 Minecraft 服务器审核指南》](../join/) 中的审核流程进行审核.
+3. 所有的新进玩家在 洛书南 | Losenone 社区中的审核结果通过 QQ 群通知! 您可以通过输入 QQ 群号码(1014605406）的方式提交 `洛书南 | 审核群` 的入群申请, 亦可以通过我们的官网 ([https://www.losenone.cn/](https://www.losenone.cn/)) 或 [《洛书南 Minecraft 服务器审核指南》](../join/) 的 [加入 洛书南 | 审核群](../join/qq_group.html) 板块快捷地提交 `洛书南 | 审核群` 的入群申请.
 4. 为了推动玩家共同维护洛书南社区和谐友好交流与游玩环境, 并加快您加入服务器的脚步, 我们需要您首先阅读以下资料并接受其中的有关规定与约束, 点击资料名称即可查看相应资料.<br>
-   a) [《洛书南 | Losenone 服务器管理条例》](/docs/public_files/moderation_rules.html)<br>
-   b) [《洛书南 | Losenone 服务器审核规范》](/docs/public_files/review_rules.html)<br>
-   c) [《Kawaii 公共社区交流公约》](http://kawaii.yaasasi.cn/)<br>
+   a) [《洛书南 | Losenone 服务器管理条例》](./moderation_rules.md)<br>
+   b) [《洛书南 | Losenone 服务器审核规范》](./review_rules.md)<br>
+   c) [《Kawaii 公共社区交流公约》](https://kawaii.yaasasi.cn/)<br>
 
 ## 第二项 玩家审核规范
 
@@ -46,7 +46,7 @@ next: false
    a) 您的 QQ 账号等级不满足我们的要求.<br>
    b) 您的年龄不满足我们的要求.<br>
 
-4. 如若您对规范、条例等 洛书南 | Losenone 相关文件存有疑问或有改进意见, 请通过 [Feedback@yaasasi.cn](mailto:Feedback@yaasasi.cn) 与我们取得联系, 亦或是不不认同我们服务与管理理念, 可以随时取消提交素质审查和白名单信息收集或是要求我们停止对您的素质审查和白名单信息收集的审理.
+4. 如若您对规范、条例等 洛书南 | Losenone 相关文件存有疑问或有改进意见, 请通过 [feedback@yaasasi.cn](mailto:feedback@yaasasi.cn) 与我们取得联系, 亦或是不不认同我们服务与管理理念, 可以随时取消提交素质审查和白名单信息收集或是要求我们停止对您的素质审查和白名单信息收集的审理.
 
 ## 第三项 规范条款权益
 
@@ -55,7 +55,7 @@ next: false
 3. 您自愿进行审核即视为您已阅读本规范并接受本规范的约束.
 4. 本规范约束范围为所有新进与需求审核的玩家、审核处以及由审核处衍生的交流内容、交流行为以及审核行为.
 5. 洛书南 | Losenone 管理团队有权在必要时修改本规范的相关条款, 您可以在本页面中查阅最新版本的规范条款.本规范条款变更后, 如果您继续在此审核与交流讨论, 即视为您已接受变更后的规范.
-6. 若您对本规范存有疑问或有改进意见, 请通过 [Feedback@yaasasi.cn](mailto:Feedback@yaasasi.cn) 与我们取得联系.
+6. 若您对本规范存有疑问或有改进意见, 请通过 [feedback@yaasasi.cn](mailto:feedback@yaasasi.cn) 与我们取得联系.
 7. 本条例相关条款最后修订日期为 2020 年 08 月 29 日, 初代版本修订时间为 2020 年 07 月 05 日, 现版本为第二次修正案.
 8. 从 2020 年 07 月 06 日起, 本条例正式开始生效.
 
