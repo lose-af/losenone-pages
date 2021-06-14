@@ -6,9 +6,8 @@ title: 首页
 lang: zh-CN
 ---
 
-::: tip
-这里是洛书南 Minecraft 服务器的官网和文档, 不过现在还没有内容.
-:::
+<div class="px-8 py-6 text-lg text-center text-green-800 bg-green-100 border border-green-600 border-solid rounded-lg">
+这里是洛书南 Minecraft 服务器的官网和文档, 不过现在还没有内容.</div>
 
 ```json{11-12}
 {

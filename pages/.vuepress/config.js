@@ -93,7 +93,7 @@ module.exports = {
         backToHome: "Back to home",
         openInNewWindow: "open in new window",
 
-        navbar: [
+        nav: [
           { text: "Knowledge Base", link: "/en/docs/knowledge_base/" },
           { text: "Join Us", link: "/en/docs/join/" },
           { text: "Public Files", link: "/en/docs/public_files/" },
@@ -136,6 +136,17 @@ module.exports = {
               ],
             },
           ],
+        },
+      },
+    },
+  },
+  bundler: "@vuepress/webpack",
+  bundlerConfig: {
+    postcss: {
+      postcssOptions: {
+        plugins: {
+          tailwindcss: {},
+          autoprefixer: {},
         },
       },
     },

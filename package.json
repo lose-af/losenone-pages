@@ -12,6 +12,10 @@
     "pages:build": "vuepress build pages"
   },
   "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.3",
+    "postcss-loader": "^6.1.0",
+    "tailwindcss": "^2.1.4",
     "vuepress": "^2.0.0-beta.18"
   }
 }
