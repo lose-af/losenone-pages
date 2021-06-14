@@ -46,7 +46,10 @@ module.exports = {
               text: "知识库",
               link: "/docs/",
               isGroup: true,
-              children: ["/docs/knowledge_base/"],
+              children: [
+                "/docs/knowledge_base/",
+                "/docs/knowledge_base/server_command.md",
+              ],
             },
           ],
           "/docs/join/": [
@@ -105,7 +108,10 @@ module.exports = {
               text: "Knowledge Base",
               link: "/en/docs/knowledge_base/",
               isGroup: true,
-              children: ["/en/docs/knowledge_base/"],
+              children: [
+                "/en/docs/knowledge_base/",
+                "/en/docs/knowledge_base/server_command.md",
+              ],
             },
           ],
           "/en/docs/join/": [
