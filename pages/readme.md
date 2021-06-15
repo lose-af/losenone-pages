@@ -7,7 +7,8 @@ lang: zh-CN
 ---
 
 <div class="px-8 py-6 text-lg text-center text-green-800 bg-green-100 border border-green-600 border-solid rounded-lg">
-这里是洛书南 Minecraft 服务器的官网和文档, 不过现在还没有内容.</div>
+<a class="text-green-800" href="./docs/event/2020-06-15-洛书南社区_首次同人文投稿活动.md">洛书南社区 | 首次同人文投稿活动</a>
+</div>
 
 ```json{11-12}
 {

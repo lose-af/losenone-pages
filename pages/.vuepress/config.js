@@ -36,6 +36,7 @@ module.exports = {
 
         navbar: [
           { text: "知识库", link: "/docs/knowledge_base/" },
+          { text: "活动", link: "/docs/event/" },
           { text: "加入我们", link: "/docs/join/" },
           { text: "公开文件", link: "/docs/public_files/" },
         ],
@@ -44,11 +45,22 @@ module.exports = {
           "/docs/knowledge_base/": [
             {
               text: "知识库",
-              link: "/docs/",
+              link: "/docs/knowledge_base/",
               isGroup: true,
               children: [
                 "/docs/knowledge_base/",
                 "/docs/knowledge_base/server_command.md",
+              ],
+            },
+          ],
+          "/docs/event/": [
+            {
+              text: "活动",
+              link: "/docs/event/",
+              isGroup: true,
+              children: [
+                "/docs/event/",
+                "/docs/event/2020-06-15-洛书南社区_首次同人文投稿活动.md",
               ],
             },
           ],
@@ -98,6 +110,7 @@ module.exports = {
 
         nav: [
           { text: "Knowledge Base", link: "/en/docs/knowledge_base/" },
+          { text: "Event", link: "/en/docs/event/" },
           { text: "Join Us", link: "/en/docs/join/" },
           { text: "Public Files", link: "/en/docs/public_files/" },
         ],
@@ -111,6 +124,17 @@ module.exports = {
               children: [
                 "/en/docs/knowledge_base/",
                 "/en/docs/knowledge_base/server_command.md",
+              ],
+            },
+          ],
+          "/en/docs/event/": [
+            {
+              text: "Event",
+              link: "/docs/event/",
+              isGroup: true,
+              children: [
+                "/en/docs/event/",
+                "/docs/event/2020-06-15-洛书南社区_首次同人文投稿活动.md",
               ],
             },
           ],
