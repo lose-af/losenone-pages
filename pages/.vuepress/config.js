@@ -62,7 +62,7 @@ module.exports = {
               isGroup: true,
               children: [
                 "/docs/event/",
-                "/docs/event/2020-06-15-洛书南社区_首次同人文投稿活动.md",
+                "/docs/event/2020-06-15-1st_fan_literature.md",
               ],
             },
           ],
@@ -136,7 +136,7 @@ module.exports = {
               isGroup: true,
               children: [
                 "/en/docs/event/",
-                "/docs/event/2020-06-15-洛书南社区_首次同人文投稿活动.md",
+                "/docs/event/2020-06-15-1st_fan_literature.md",
               ],
             },
           ],
