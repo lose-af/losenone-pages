@@ -110,7 +110,7 @@ module.exports = {
         backToHome: "Back to home",
         openInNewWindow: "open in new window",
 
-        nav: [
+        navbar: [
           { text: "Knowledge Base", link: "/en/docs/knowledge_base/" },
           { text: "Event", link: "/en/docs/event/" },
           { text: "Join Us", link: "/en/docs/join/" },
