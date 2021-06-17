@@ -1,6 +1,14 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
 .c-block-button {
   @apply block w-full py-4 font-bold text-center text-white transition-colors duration-100 bg-green-500 border-none rounded-lg shadow-md active:bg-green-700 hover:bg-green-600 hover:shadow-lg;
+}
+
+:root {
+  // font vars
+  --font-family: "Exo 2", "source-han-sans-simplified-c", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  --font-family-code: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
 }
