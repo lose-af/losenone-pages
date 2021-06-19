@@ -1,10 +1,10 @@
 module.exports = {
+  mode: "jit",
   purge: {
     content: [`./pages/**/*.@(js|ts|md|vue|html)`],
   },
-  variants: {
-    extend: {
-      backgroundColor: ["active"],
-    },
+  corePlugins: {
+    preflight: false,
   },
+  darkMode: "class",
 };
