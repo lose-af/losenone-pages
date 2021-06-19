@@ -40,7 +40,7 @@ module.exports = {
         repoLabel: "文档源代码",
         lastUpdatedText: "最后更新",
 
-        siteFooter: "吉ICP备2021002465号",
+        footer: "吉ICP备2021002465号",
 
         notFound: ["4 ! 0 ! 4 !"],
         backToHome: "返回主页",
@@ -116,7 +116,7 @@ module.exports = {
         repoLabel: "Source",
         lastUpdatedText: "Last Updated",
 
-        siteFooter: "吉ICP备2021002465号",
+        footer: "吉ICP备2021002465号",
 
         notFound: ["4 ! 0 ! 4 !"],
         backToHome: "Back to home",
