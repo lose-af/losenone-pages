@@ -184,6 +184,27 @@ module.exports = {
       },
     },
   },
+  plugins: [
+    [
+      "@vuepress/plugin-docsearch",
+      {
+        apiKey: "ab9a88200fe23a2f73826c25da74cefe",
+        indexName: "losenone",
+        searchParameters: {
+          facetFilters: ["tags:production"],
+        },
+        appId: "8JNRU9AKFF",
+        locales: {
+          "/": {
+            placeholder: "搜索文档",
+          },
+          "/en/": {
+            placeholder: "Search Documentation",
+          },
+        },
+      },
+    ],
+  ],
   bundler: "@vuepress/webpack",
   bundlerConfig: {
     postcss: {
