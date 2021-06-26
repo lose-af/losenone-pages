@@ -11,7 +11,7 @@ next: false
 ## 第一项 关于我们
 
 1. 洛书南 | Losenone, 简称洛书南(Losenone), 是一个来自中国的 Minecraft 中文社区.
-2. 洛书南 | Losenone 管理团队是由以 雨季先生丨MonsoonR 作为 洛书南 | Losenone 社区和旗下服务器的总体管理与维护, Yaasasi 为 洛书南 | Losenone 社区和旗下服务器的总体策划与审核总监, Navaja 为 洛书南 | Losenone 社区和旗下服务器的宣传营销, 半米月光、Nicoms 等人为 洛书南 | Losenone 社区日常、交流等方面的管理构成的. 洛书南 | Losenone 社区便是由 洛书南 | Losenone 管理团队带领众多 Minecraft 玩家构成的 Minecraft 社区聚落.
+2. 洛书南 | Losenone 管理团队是由以 雨季先生 | MonsoonR 作为 洛书南 | Losenone 社区和旗下服务器的总体管理与维护, Yaasasi 为 洛书南 | Losenone 社区和旗下服务器的总体策划与审核总监, Navaja 为 洛书南 | Losenone 社区和旗下服务器的宣传营销, 半米月光、Nicoms 等人为 洛书南 | Losenone 社区日常、交流等方面的管理构成的. 洛书南 | Losenone 社区便是由 洛书南 | Losenone 管理团队带领众多 Minecraft 玩家构成的 Minecraft 社区聚落.
 3. 洛书南 | Losenone 旗下的 Minecraft 服务器均是以原版生存、空岛生存、趣味竞技或休闲小游戏为本体的, 并与多种辅助插件搭配形成的特色 Minecraft 服务器.这些服务器的游戏版本始终追随 Mojang Studios 工作室发布的 Minecraft 最新正式版.
 4. 洛书南 | Losenone 社区对所有的 Minecraft 玩家、服务器与社区持包容态度, 我们非常欢迎热爱 Minecraft 与素质极高的玩家加入我们这个大家庭！
 
