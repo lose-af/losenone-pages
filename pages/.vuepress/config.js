@@ -1,9 +1,7 @@
 const { path } = require("@vuepress/utils");
 
 module.exports = {
-  head: [
-    ["link", { rel: "icon", href: "/images/logo.png" }],
-  ],
+  head: [["link", { rel: "icon", href: "/images/logo.png" }]],
   locales: {
     "/": {
       lang: "zh-CN",
@@ -35,7 +33,9 @@ module.exports = {
         repoLabel: "文档源代码",
         lastUpdatedText: "最后更新",
 
-        footer: "吉ICP备2021002465号",
+        footer:
+          '<div class="footer"><a href="https://beian.miit.gov.cn/">吉ICP备2021002465号</a></div>',
+        footerHtml: true,
 
         notFound: ["4 ! 0 ! 4 !"],
         backToHome: "返回主页",

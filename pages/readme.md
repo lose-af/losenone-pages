@@ -29,3 +29,7 @@ lang: zh-CN
   }
 }
 ```
+
+<div class="footer">
+<a href="https://beian.miit.gov.cn/">吉ICP备2021002465号</a>
+</div>
