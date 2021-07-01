@@ -112,7 +112,9 @@ module.exports = {
         repoLabel: "Source",
         lastUpdatedText: "Last Updated",
 
-        footer: "吉ICP备2021002465号",
+        footer:
+          '<div class="footer"><a href="https://beian.miit.gov.cn/">吉ICP备2021002465号</a></div>',
+        footerHtml: true,
 
         notFound: ["4 ! 0 ! 4 !"],
         backToHome: "Back to home",
