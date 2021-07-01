@@ -1,12 +1,12 @@
 ---
-title: 洛书南丨 Losenone 社区服务器公会约束条例
+title: 洛书南 | Losenone 社区服务器公会约束条例
 lang: zh-CN
 sidebarDepth: 1
 prev: false
 next: false
 ---
 
-# 洛书南丨 Losenone 社区服务器公会约束条例
+# 洛书南 | Losenone 社区服务器公会约束条例
 
 ::: tip
 English version: [Click Here](/en/docs/public_files/guild_rules.md)

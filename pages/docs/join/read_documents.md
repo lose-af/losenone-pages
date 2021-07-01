@@ -18,8 +18,8 @@ sidebarDepth: 0
 
 我们需要您首先阅读以下资料并接受其中的有关规定与约束, 点击资料名称即可查看相应资料!
 
-[《洛书南 | Losenone 服务器管理条例》](../public_files/moderation_rules.md)
+[《洛书南 | Losenone 社区管理条例》](../public_files/moderation_rules.md)
 
-[《洛书南 | Losenone 服务器审核规范》](../public_files/review_rules.md)
+[《洛书南 | Losenone 社区审核规范》](../public_files/review_rules.md)
 
 [《Kawaii 公共社区交流公约》](https://kawaii.yaasasi.cn/)

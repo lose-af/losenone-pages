@@ -10,8 +10,8 @@ next: false
 
 这里是 Losenone | 洛书南 服务器公开文件, 请玩家认真阅读.
 
-> [洛书南 | Losenone 服务器管理条例](./moderation_rules.md)
+> [洛书南 | Losenone 社区管理条例](./moderation_rules.md)
 >
-> [洛书南 | Losenone 服务器审核规范](./review_rules.md)
+> [洛书南 | Losenone 社区审核规范](./review_rules.md)
 >
-> [洛书南 | Losenone 服务器公会约束条例](./guild_rules.md)
+> [洛书南 | Losenone 社区服务器公会约束条例](./guild_rules.md)
