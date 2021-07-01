@@ -1,5 +1,5 @@
 ---
-title: 洛书南 | Losenone 社区审核规范
+title: 审核规范
 lang: zh-CN
 sidebarDepth: 1
 prev: false

@@ -94,6 +94,7 @@ module.exports = {
               link: "/docs/public_files/",
               isGroup: true,
               children: [
+                "/docs/public_files/",
                 "/docs/public_files/moderation_rules.md",
                 "/docs/public_files/review_rules.md",
                 "/docs/public_files/guild_rules.md",
@@ -173,6 +174,7 @@ module.exports = {
               link: "/docs/public_files/",
               isGroup: true,
               children: [
+                "/docs/public_files/",
                 "/docs/public_files/moderation_rules.md",
                 "/docs/public_files/review_rules.md",
                 "/en/docs/public_files/guild_rules.md",

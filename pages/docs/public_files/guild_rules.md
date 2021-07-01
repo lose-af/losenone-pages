@@ -1,5 +1,5 @@
 ---
-title: 洛书南 | Losenone 社区服务器公会约束条例
+title: 服务器公会约束条例
 lang: zh-CN
 sidebarDepth: 1
 prev: false

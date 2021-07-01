@@ -1,5 +1,5 @@
 ---
-title: 洛书南 | Losenone 社区管理条例
+title: 管理条例
 lang: zh-CN
 sidebarDepth: 1
 prev: false
