@@ -1,12 +1,12 @@
 ---
-title: 洛书南丨 Losenone 服务器公会约束条例
+title: 洛书南丨 Losenone 社区服务器公会约束条例
 lang: zh-CN
 sidebarDepth: 1
 prev: false
 next: false
 ---
 
-# 洛书南丨 Losenone 服务器公会约束条例
+# 洛书南丨 Losenone 社区服务器公会约束条例
 
 ::: tip
 English version: [Click Here](/en/docs/public_files/guild_rules.md)
@@ -22,7 +22,7 @@ English version: [Click Here](/en/docs/public_files/guild_rules.md)
 
 2. 公会 QQ 群服务器实施监督制: (避免团体之间的产生冲突和误解)
 
-- 公会群内有服主雨季作为管理员.
+- 公会群内有腐竹 `雨季先生 | MonsoonR` 作为管理员.
 - 公会群内需要现任服务器秩序管理 (现任秩序管理: `半米月光 | HMlight`).
 - 公会群至少两名来自不同公会的服务器管理员作为监督员.
   严禁脱离监督制的内群, 一经发现取消内群组织者和参与者游戏内白名单, 根据情节严重性追加惩罚.
