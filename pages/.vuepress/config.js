@@ -206,13 +206,15 @@ module.exports = {
       },
     ],
   ],
-  bundler: "@vuepress/webpack",
+  bundler: "@vuepress/vite",
   bundlerConfig: {
-    postcss: {
-      postcssOptions: {
-        plugins: {
-          tailwindcss: {},
-          autoprefixer: {},
+    /**
+     * @type {import('vite').UserConfig}
+     */
+    viteOptions: {
+      css: {
+        postcss: {
+          plugins: [require("tailwindcss"), require("autoprefixer")],
         },
       },
     },
