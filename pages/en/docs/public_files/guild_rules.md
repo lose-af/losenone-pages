@@ -1,5 +1,5 @@
 ---
-title: Losenone Guild Regulations
+title: Guild Regulations
 lang: en-US
 sidebarDepth: 1
 prev: false
@@ -47,6 +47,16 @@ You should contact the admins and join the arbitration group chat to settle the 
 
 Note: No seeking for troubles, do not attempt anything which might ruin the gaming experience of other players in any way. Let us all be
 HAPPY and enjoy the game in our beloved server.
+
+## Register a guild
+
+:::warning You should read and abide all the regulations thouroughly.
+[Open in new window](https://shimo.im/forms/913JVnM1pLiD6R3E/fill) or expend the spoiler below to fill the form.
+:::details Expend this spoiler to fill the form
+
+<iframe src="https://shimo.im/forms/913JVnM1pLiD6R3E/fill" frameborder="0" scrolling="yes" width="100%" height="650px"></iframe>
+
+:::
 
 ---
 

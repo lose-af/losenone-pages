@@ -18,7 +18,7 @@ English version: [Click Here](/en/docs/public_files/guild_rules.md)
 
 ## 公会条例
 
-1. 允许玩家自建人数为 3 人及以上的公会, 注册公会需要有一个公会 QQ 群, 并且完整仔细阅读本条例所以内容并同意遵守所以条例内的规章制度.
+1. 允许玩家自建人数为 3 人及以上的公会, 注册公会需要有一个公会 QQ 群, 并且完整仔细阅读本条例所以内容并同意遵守所有条例内的规章制度.
 
 2. 公会 QQ 群服务器实施监督制: (避免团体之间的产生冲突和误解)
 
@@ -47,6 +47,16 @@ English version: [Click Here](/en/docs/public_files/guild_rules.md)
 可以联系管理员在洛书南矛盾处理组根据服务器条例进行处理.
 
 懒人笔记: 别闹事, 别做 “钢筋”, 不要以任何形式去损害别的玩家的游戏体验, 大家一起开心地玩吧.
+
+## 注册公会
+
+:::warning 请确认您已经完整仔细阅读本条例所以内容并同意遵守所以条例内的规章制度
+[在新窗口中填写表单](https://shimo.im/forms/913JVnM1pLiD6R3E/fill) 或者在下面的容器内填写表单.
+:::details 展开此容器以填写表单
+
+<iframe src="https://shimo.im/forms/913JVnM1pLiD6R3E/fill" frameborder="0" scrolling="yes" width="100%" height="650px"></iframe>
+
+:::
 
 ---
 
