@@ -14,7 +14,7 @@ next: false
 
 ## Guild (system) of LOSENONE server (the friendly in-game players group)
 
-Having registration and supervision system in place, our guild system of our server promotes collaborations within players. The supervision imposing on the guilds serves the purpose of reducing unnecessary conflicts among players and settling minor disputes. Hopefully, the concept of setting up or joining a guild can enrich our gameplay.
+Having registration and supervision system in place, our guild system of our server promotes collaborations within players. The supervision imposing on the guilds serves the purpose of reducing unnecessary conflicts among players and settling minor disputes. Hopefully, the concept of setting up or joining a guild can enrich our gameplay. Your guild can get a warp point after successful registration.
 
 ## Regulations for the guilds and registration
 
