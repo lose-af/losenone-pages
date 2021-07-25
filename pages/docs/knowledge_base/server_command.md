@@ -22,8 +22,8 @@ lang: zh-CN
 ## 其他指令
 
 - `/home gui` - 打开 home 菜单
-- `/home add 家` - 添加名字为“家”的Home传送点
-- `/home del 家` - 删除名字为“家”的Home传送点
+- `/home add <家>` - 添加名字为 `家` 的 Home 传送点
+- `/home del <家>` - 删除名字为 `家` 的 Home 传送点
 - `/warp gui` - 打开传送点菜单
 - `/back` - 返回死亡点
 - `/suicide` - 当场去世
