@@ -10,7 +10,8 @@ next: false
 
 ## ★ 奖项设置 ★
 
-优秀作品将会有机会登上 [洛书南 | 文档库](https://lsn.yaasasi.cn/) 以及 [洛书南 | 官网](https://www.losenone.cn/)!
+优秀作品将会有机会登上 [洛书南 | 文档库](https://lsn.yaasasi.cn/)
+以及 [洛书南 | 官网](https://www.losenone.cn/)!
 
 一等奖(一人): 国内任意网站会员(365 天)
 
@@ -55,7 +56,8 @@ next: false
 
 ### 投稿
 
-1. 请将活动参与作品转化为 PDF 文件加上署名与联系方式, 以主题为「洛书南社区 | 首次同人文投稿活动 | 投稿」的邮件发送到 [YuXi@yaasasi.cn](mailto:YuXi@yaasasi.cn) 进行投稿.
+1. 请将活动参与作品转化为 PDF 文件加上署名与联系方式,
+以主题为「洛书南社区 | 首次同人文投稿活动 | 投稿」的邮件发送到 [YuXi@yaasasi.cn](mailto:YuXi@yaasasi.cn) 进行投稿.
 
 ### 责任
 
