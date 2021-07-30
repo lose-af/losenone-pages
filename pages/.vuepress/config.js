@@ -58,6 +58,7 @@ module.exports = {
               children: [
                 "/docs/knowledge_base/",
                 "/docs/knowledge_base/server_command.md",
+                "/docs/knowledge_base/temp_skin_event.md",
               ],
             },
           ],
@@ -138,6 +139,7 @@ module.exports = {
               children: [
                 "/en/docs/knowledge_base/",
                 "/en/docs/knowledge_base/server_command.md",
+                "/en/docs/knowledge_base/temp_skin_event.md",
               ],
             },
           ],
