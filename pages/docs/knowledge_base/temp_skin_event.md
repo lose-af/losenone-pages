@@ -8,12 +8,9 @@ lang: zh-CN
 ## 创建皮肤站账户
 
 1. 请您首先访问我们的 [皮肤站](https://my.losenone.cn/), 打开如下网站即为正确, 然后点击网页正中央的 "现在注册".
-
 <!-- TODO: Move the image to our repo later... -->
 ![皮肤站](https://pic.baixiongz.com/uploads/2021/07/30/f06cf5527d3e5.png)
-
 2. 然后依次填入您的电子邮箱, 密码, 游戏内角色名, 邀请码以及验证码, 然后点击 注册 即可.
-
 <!-- TODO: Move the image to our repo later... -->
 ![注册示例](https://pic.baixiongz.com/uploads/2021/07/30/3fd812c240813.png)
 
@@ -24,11 +21,10 @@ lang: zh-CN
 ## 配置皮肤站账户
 
 1. 我们需要验证你的电子邮箱地址, 请您打开你的电子邮箱后台, 选择来自 Losenone 的邮件, 点击邮件内的验证链接, 进行验证.
-
 <!-- TODO: Move the image to our repo later... -->
 ![邮件示例](https://pic.baixiongz.com/uploads/2021/07/30/9093bcbee3159.png)
-
 2. 当您得到验证成功的提示后, 请返回皮肤站, 然后在侧边栏中选择 "我的衣柜", 你就可以愉快的选择皮肤与披风了!
+<!-- TODO: Move the image to our repo later... -->
 ![衣柜示例](https://pic.baixiongz.com/uploads/2021/07/30/03e70dbc83e81.png)
 
 ::: tip
@@ -57,10 +53,8 @@ lang: zh-CN
 
 1. 启动 PCL2 启动器, 下载 Minecraft: Java Edition 1.17.1 版本.
 2. 打开 Minecraft: Java Edition 1.17.1 版本设置, 滑动到最底下的服务器选项, 在登录方式中选择第三方登录, 并按照如下图方式输入内容: `https://my.losenone.cn/api/yggdrasil`.
-
 <!-- TODO: Move the image to our repo later... -->
 ![PCL2 配置示例](https://pic.baixiongz.com/uploads/2021/07/30/addba4b78fd0f.png)
-
 3. 配置完成后返回到启动器主页面, 输入先前注册好的皮肤站帐户与密码, 点击启动游戏即可.
 4. 在多人游戏中输入 `bdx.losenone.cn` 保存后, 加入服务器即可.
 
@@ -72,9 +66,7 @@ lang: zh-CN
 4. 在弹出的窗口内输入 `https://my.losenone.cn/api/yggdrasil` 并点击 "确认".
 5. 在 认证服务器 的下拉列表中选中刚刚添加的认证服务器.
 6. 填入你的皮肤站账户与密码, 并点击 "确认".
-
 <!-- TODO: Move the image to our repo later... -->
 ![HMCL 配置示例](https://pic.baixiongz.com/uploads/2021/07/30/434ddc774c75e.png)
-
 7. 配置完成后返回到启动器主页面, 下载 Minecraft: Java Edition 1.17.1 版本, 点击启动游戏即可.
 8. 在多人游戏中输入 "bdx.losenone.cn" 保存后, 加入服务器即可.
