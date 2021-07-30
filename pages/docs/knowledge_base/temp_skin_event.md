@@ -27,7 +27,7 @@ lang: zh-CN
 
 2. 当您得到验证成功的提示后, 请返回皮肤站, 然后在侧边栏中选择 "我的衣柜", 你就可以愉快的选择皮肤与披风了!
 
-    ![衣柜示例](temp_skin_event_assets/closet.png)
+    ![衣柜示例](./temp_skin_event_assets/closet.png)
 
 ::: tip
 皮肤与披风选择完毕后, 不要忘记应用于您的角色哦~
@@ -55,7 +55,7 @@ lang: zh-CN
 
 1. 启动 PCL2 启动器, 下载 Minecraft: Java Edition 1.17.1 版本.
 2. 打开 Minecraft: Java Edition 1.17.1 版本设置, 滑动到最底下的服务器选项, 在登录方式中选择第三方登录, 并按照如下图方式输入内容: `https://my.losenone.cn/api/yggdrasil`.
-    ![PCL2 配置示例](temp_skin_event_assets/pcl_conf.png)
+    ![PCL2 配置示例](./temp_skin_event_assets/pcl_conf.png)
 3. 配置完成后返回到启动器主页面, 输入先前注册好的皮肤站帐户与密码, 点击启动游戏即可.
 4. 在多人游戏中输入 `bdx.losenone.cn` 保存后, 加入服务器即可.
 
@@ -67,6 +67,6 @@ lang: zh-CN
 4. 在弹出的窗口内输入 `https://my.losenone.cn/api/yggdrasil` 并点击 "确认".
 5. 在 认证服务器 的下拉列表中选中刚刚添加的认证服务器.
 6. 填入你的皮肤站账户与密码, 并点击 "确认".
-    ![HMCL 配置示例](temp_skin_event_assets/hmcl_conf.png)
+    ![HMCL 配置示例](./temp_skin_event_assets/hmcl_conf.png)
 7. 配置完成后返回到启动器主页面, 下载 Minecraft: Java Edition 1.17.1 版本, 点击启动游戏即可.
 8. 在多人游戏中输入 "bdx.losenone.cn" 保存后, 加入服务器即可.
