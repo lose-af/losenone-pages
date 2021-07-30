@@ -10,5 +10,4 @@ prev: false
 欢迎参加贡献, 共同构建知识库.
 :::
 
-> [服务器指令指南](./server_command.md)
-> [社区皮肤站使用指南](./skin.md)
+> [服务器指令指南](./server_command.md) > [社区皮肤站使用指南](./skin.md)

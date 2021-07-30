@@ -10,6 +10,8 @@
   "scripts": {
     "pages:dev": "vuepress dev pages",
     "pages:build": "vuepress build pages",
+    "prettier:check": "prettier --check .",
+    "prettier:fix": "prettier --write .",
     "eslint:check": "eslint . --ext .js,.vue,.html",
     "eslint:fix": "eslint . --fix --ext .js,.vue,.html",
     "mdlint:check": "markdownlint-cli2 \"**/*.md\" \"#node_modules\"",
