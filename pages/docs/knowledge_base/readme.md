@@ -11,3 +11,4 @@ prev: false
 :::
 
 > [服务器指令指南](./server_command.md)
+> [社区皮肤站使用指南](./skin.md)
