@@ -44,6 +44,7 @@ module.exports = {
         navbar: [
           { text: "知识库", link: "/docs/knowledge_base/" },
           { text: "活动", link: "/docs/event/" },
+          { text: "同人作品", link: "/docs/fanwork/" },
           { text: "加入我们", link: "/docs/join/" },
           { text: "公开文件", link: "/docs/public_files/" },
           { text: "皮肤站", link: "https://my.losenone.cn/" },
@@ -70,6 +71,18 @@ module.exports = {
               children: [
                 "/docs/event/",
                 "/docs/event/2020-06-15-1st_fan_literature.md",
+              ],
+            },
+          ],
+          "/docs/fanwork/": [
+            {
+              text: "同人作品",
+              link: "/docs/fanwork/",
+              isGroup: true,
+              children: [
+                "/docs/fanwork/",
+                "/docs/fanwork/1.md",
+                "/docs/fanwork/2.md",
               ],
             },
           ],
@@ -125,6 +138,7 @@ module.exports = {
         navbar: [
           { text: "Knowledge Base", link: "/en/docs/knowledge_base/" },
           { text: "Event", link: "/en/docs/event/" },
+          { text: "Fanwork", link: "/en/docs/fanwork/" },
           { text: "Join Us", link: "/en/docs/join/" },
           { text: "Public Files", link: "/en/docs/public_files/" },
           { text: "Account", link: "https://my.losenone.cn/" },
@@ -140,6 +154,18 @@ module.exports = {
                 "/en/docs/knowledge_base/",
                 "/en/docs/knowledge_base/server_command.md",
                 "/en/docs/knowledge_base/temp_skin_event.md",
+              ],
+            },
+          ],
+          "/en/docs/fanwork/": [
+            {
+              text: "Fanwork",
+              link: "/docs/fanwork/",
+              isGroup: true,
+              children: [
+                "/en/docs/fanwork/",
+                "/en/docs/fanwork/1.md",
+                "/en/docs/fanwork/2.md",
               ],
             },
           ],
