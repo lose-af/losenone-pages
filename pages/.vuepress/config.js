@@ -44,6 +44,7 @@ module.exports = {
         navbar: [
           { text: "知识库", link: "/docs/knowledge_base/" },
           { text: "活动", link: "/docs/event/" },
+          { text: "加入我们", link: "/docs/join/" },
           { text: "公开文件", link: "/docs/public_files/" },
           { text: "皮肤站", link: "https://my.losenone.cn/" },
         ],
@@ -69,6 +70,22 @@ module.exports = {
               children: [
                 "/docs/event/",
                 "/docs/event/2020-06-15-1st_fan_literature.md",
+              ],
+            },
+          ],
+          "/docs/join/": [
+            {
+              text: "审核指南",
+              link: "/docs/join/",
+              isGroup: true,
+              children: [
+                "/docs/join/",
+                "/docs/join/read_documents.md",
+                "/docs/join/qq_group.md",
+                "/docs/join/why.md",
+                "/docs/join/recheck.md",
+                "/docs/join/fill_form.md",
+                "/docs/join/success.md",
               ],
             },
           ],
@@ -108,6 +125,7 @@ module.exports = {
         navbar: [
           { text: "Knowledge Base", link: "/en/docs/knowledge_base/" },
           { text: "Event", link: "/en/docs/event/" },
+          { text: "Join Us", link: "/en/docs/join/" },
           { text: "Public Files", link: "/en/docs/public_files/" },
           { text: "Account", link: "https://my.losenone.cn/" },
         ],
@@ -133,6 +151,22 @@ module.exports = {
               children: [
                 "/en/docs/event/",
                 "/docs/event/2020-06-15-1st_fan_literature.md",
+              ],
+            },
+          ],
+          "/en/docs/join/": [
+            {
+              text: "Joining Losenone",
+              link: "/docs/join/",
+              isGroup: true,
+              children: [
+                "/docs/join/",
+                "/docs/join/read_documents.md",
+                "/docs/join/qq_group.md",
+                "/docs/join/why.md",
+                "/docs/join/recheck.md",
+                "/docs/join/fill_form.md",
+                "/docs/join/success.md",
               ],
             },
           ],
