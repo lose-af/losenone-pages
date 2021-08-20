@@ -16,6 +16,10 @@ sidebarDepth: 0
 
 <button class="c-block-button" onclick="window.open('https://jq.qq.com/?k=6vYojSIS')">点此加入审核群</button>
 
+::: tip 如果无法使用上面的按钮加入审核群 可以使用群号加入
+审核群群号: 1014605406
+:::
+
 ::: warning
 `洛书南 | 审核群` 只允许 QQ 等级大于或等于 16 级的 QQ 账号加入（即一个太阳）
 :::
