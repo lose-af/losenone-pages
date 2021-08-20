@@ -12,7 +12,7 @@ sidebarDepth: 0
 恭喜, 您已经走到这一步了, 赶快填写我们的问卷吧!
 :::
 
-<iframe src="https://shimo.im/forms/8FkoRGfDMdwAyZKq/fill" frameborder="0" scrolling="yes" width="100%" height="650px"></iframe>
+<iframe src="https://wj.qq.com/s2/8899691/6bc8/" frameborder="0" alwaysfullscreen width="100%" height="650px"></iframe>
 
 ::: tip
 完成填写后, 请记得前往审核群@审核员进行审核!
