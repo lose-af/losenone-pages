@@ -71,6 +71,7 @@ module.exports = {
               children: [
                 "/docs/event/",
                 "/docs/event/2020-06-15-1st_fan_literature.md",
+                "/docs/event/spark_project.md",
               ],
             },
           ],
@@ -177,6 +178,7 @@ module.exports = {
               children: [
                 "/en/docs/event/",
                 "/docs/event/2020-06-15-1st_fan_literature.md",
+                "/docs/event/spark_project.md",
               ],
             },
           ],
