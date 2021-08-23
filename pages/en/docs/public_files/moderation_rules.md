@@ -10,7 +10,7 @@ next: false
 
 ## 「1」About us
 
-1. 洛书南 | Losenone, referred to its Chinese name “洛书南”; English name, Losenone. We are a Chinese Minecraft Community open to all Minecraft players including players from other countries.
+1. 洛书南 | Losenone, referred to its Chinese name "洛书南"; English name, Losenone. We are a Chinese Minecraft Community open to all Minecraft players including players from other countries.
 2. Losenone community is managed by its management team. In the management team of Losenone, 雨季 | MonsoonR oversees the overall management and operation and maintenance of the Losenone community and its servers, Yaasasi as the overall planning and main application interviewer, Navaja Pathera is responsible for the advertisement and marketing management. Nixiebolu is responsible for the operation and maintenance of the Losenone community portal website. Members such as HMlights and Nicoms as staff who supervise the daily group chat communication of our community.
 3. Losenone’s Minecraft servers are all based on original survival mode, skyland survival, joy mods, role-playing, fun competitions, or casual games, and are formed by collocation with a variety of auxiliary add-ons. The game versions of these servers will follow the latest official version of Minecraft released by Mojang Studios, whilst some servers may stay at the version which is more preferrable and suitable.
 4. Our Losenone community welcomes all Minecraft players, servers, and communities. We welcome players who are fond of Minecraft to join our big family. We are aiming for respectful friendly communications and respectful interactions within community just like you do.

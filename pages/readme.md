@@ -7,7 +7,7 @@ lang: zh-CN
 ---
 
 <div class="px-8 py-6 text-lg text-center text-pink-600 bg-pink-400 border border-pink-400 border-solid rounded-lg bg-opacity-30 dark:text-pink-200 dark:border-pink-400">
-<a class="text-pink-600 dark:text-pink-200" href="./docs/event/spark_project.html">星火计划 | Spark Project</a>
+<a class="text-pink-600 dark:text-pink-200" href="https://spark.yaasasi.cn/">星火计划 | Spark Project</a>
 </div>
 
 @[code json](../package.json)
