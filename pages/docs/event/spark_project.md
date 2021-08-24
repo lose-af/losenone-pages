@@ -28,5 +28,5 @@ o((>ω< ))o[赞助我们](https://afdian.net/@Yaasasi)o((>ω< ))o
 
 ## 加入计划
 
-- [计划 QQ 社群](https://jq.qq.com/?_wv=1027&k=CsRVWdHu)
+- [官方 QQ 社群](https://jq.qq.com/?_wv=1027&k=CsRVWdHu)
 - [客户端](https://files.yaasasi.cn/SparkProject/Client)
