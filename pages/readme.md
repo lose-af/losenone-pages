@@ -12,6 +12,12 @@ lang: zh-CN
 
 @[code json](../package.json)
 
-<div class="footer">
-<a href="https://beian.miit.gov.cn/">吉ICP备2021002465号</a>
+<div class="footer flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-4">
+  <a href="https://beian.miit.gov.cn/" rel="nofollow noopener" target="_blank">吉ICP备2021002465号</a>
+  <div class="flex flex-row flex-nowrap justify-center space-x-1">
+    <img class="w-4 h-4 flex-grow-0 my-auto" src="/images/record.png"/>
+    <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=22017202000263" rel="nofollow noopener" target="_blank">
+      吉公网安备 22017202000263号
+    </a>
+  </div>
 </div>
