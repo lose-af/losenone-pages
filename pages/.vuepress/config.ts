@@ -37,7 +37,7 @@ export default defineUserConfig<DefaultThemeOptions>({
         lastUpdatedText: "最后更新",
 
         footer:
-          '<div class="footer flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-4"><a href="https://beian.miit.gov.cn/" rel="nofollow noopener" target="_blank">吉ICP备2021002465号</a><div class="flex flex-row flex-nowrap justify-center space-x-1"><img class="w-4 h-4 flex-grow-0 my-auto" src="/images/record.png"/><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=22017202000263" rel="nofollow noopener" target="_blank">吉公网安备 22017202000263号</a></div></div>',
+          '<div class="footer flex-col md:flex-row mx-auto space-y-2 md:space-y-0 md:space-x-4"><div class="flex flex-row flex-nowrap justify-center space-x-1"><a class="mx-auto flex-shrink-0" href="https://beian.miit.gov.cn/" rel="nofollow noopener" target="_blank"> 吉ICP备2021002465号 </a></div><div class="flex flex-row flex-nowrap justify-center space-x-1"><img class="w-4 h-4 flex-grow-0 my-auto" src="/images/record.png" /><a class="flex-shrink-0" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=22017202000263" rel="nofollow noopener" target="_blank"> 吉公网安备 22017202000263号 </a></div></div>',
         footerHtml: true,
 
         notFound: ["4 ! 0 ! 4 !"],
@@ -66,7 +66,7 @@ export default defineUserConfig<DefaultThemeOptions>({
         lastUpdatedText: "Last Updated",
 
         footer:
-          '<div class="footer flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-4"><a href="https://beian.miit.gov.cn/" rel="nofollow noopener" target="_blank">吉ICP备2021002465号</a><div class="flex flex-row flex-nowrap justify-center space-x-1"><img class="w-4 h-4 flex-grow-0 my-auto" src="/images/record.png"/><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=22017202000263" rel="nofollow noopener" target="_blank">吉公网安备 22017202000263号</a></div></div>',
+          '<div class="footer flex-col md:flex-row mx-auto space-y-2 md:space-y-0 md:space-x-4"><div class="flex flex-row flex-nowrap justify-center space-x-1"><a class="mx-auto flex-shrink-0" href="https://beian.miit.gov.cn/" rel="nofollow noopener" target="_blank"> 吉ICP备2021002465号 </a></div><div class="flex flex-row flex-nowrap justify-center space-x-1"><img class="w-4 h-4 flex-grow-0 my-auto" src="/images/record.png" /><a class="flex-shrink-0" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=22017202000263" rel="nofollow noopener" target="_blank"> 吉公网安备 22017202000263号 </a></div></div>',
         footerHtml: true,
 
         notFound: ["4 ! 0 ! 4 !"],
