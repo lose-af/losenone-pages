@@ -12,8 +12,8 @@
     "pages:build": "vuepress build pages",
     "prettier:check": "prettier --check .",
     "prettier:fix": "prettier --write .",
-    "eslint:check": "eslint . --ext .js,.vue,.html",
-    "eslint:fix": "eslint . --fix --ext .js,.vue,.html",
+    "eslint:check": "eslint . --ext .js,.ts,.vue,.html",
+    "eslint:fix": "eslint . --fix --ext .js,.ts,.vue,.html",
     "mdlint:check": "markdownlint-cli2 \"**/*.md\" \"#node_modules\"",
     "mdlint:fix": "markdownlint-cli2-fix \"**/*.md\" \"#node_modules\""
   },

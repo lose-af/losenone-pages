@@ -21,6 +21,7 @@ export const en: SidebarConfig = {
         "/en/docs/fanwork/1.md",
         "/en/docs/fanwork/2.md",
         "/en/docs/fanwork/3.md",
+        "/en/docs/fanwork/4.md",
       ],
     },
   ],

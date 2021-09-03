@@ -32,6 +32,7 @@ export const zh: SidebarConfig = {
         "/docs/fanwork/1.md",
         "/docs/fanwork/2.md",
         "/docs/fanwork/3.md",
+        "/docs/fanwork/4.md",
       ],
     },
   ],
