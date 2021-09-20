@@ -1,9 +1,0 @@
-{
-  // Temporarily disable line-length check.
-  "line-length": false,
-  "single-title": false,
-  "no-inline-html": false,
-  "ol-prefix": {
-    "style": "ordered"
-  }
-}
