@@ -6,6 +6,10 @@ title: 首页
 lang: zh-CN
 ---
 
+<div class="px-8 py-6 my-6 text-lg text-center text-pink-600 bg-pink-400 border border-pink-400 border-solid rounded-lg bg-opacity-30 dark:text-pink-200 dark:border-pink-400">
+<a class="text-pink-600 dark:text-pink-200" href="./2021.1001-2nd_fanwork.html">洛书南社区 | 第二届同人投稿活动</a>
+</div>
+
 <div class="px-8 py-6 text-lg text-center text-pink-600 bg-pink-400 border border-pink-400 border-solid rounded-lg bg-opacity-30 dark:text-pink-200 dark:border-pink-400">
   <a class="text-pink-600 dark:text-pink-200" href="https://spark.yaasasi.cn/">星火计划 | Spark Project</a>
 </div>

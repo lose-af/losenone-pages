@@ -31,7 +31,8 @@ export const en: SidebarConfig = {
       link: "/docs/event/",
       children: [
         "/en/docs/event/",
-        "/en/docs/event/2020-06-15-1st_fan_literature.md",
+        "/en/docs/event/2021.1001-2nd_fanwork.md",
+        "/en/docs/event/2021.615-1st_fan_literature.md",
         "/en/docs/event/spark_project.md",
       ],
     },

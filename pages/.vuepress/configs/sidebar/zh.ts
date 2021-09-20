@@ -18,7 +18,8 @@ export const zh: SidebarConfig = {
       link: "/docs/event/",
       children: [
         "/docs/event/",
-        "/docs/event/2020-06-15-1st_fan_literature.md",
+        "/docs/event/2021.1001-2nd_fanwork.md",
+        "/docs/event/2021.615-1st_fan_literature.md",
         "/docs/event/spark_project.md",
       ],
     },
