@@ -24,6 +24,6 @@ sidebarDepth: 0
 
 感谢您的理解与支持, 谢谢!
 
-### [我未阅读完成, 我需要返回阅读!](./read_documents.md)
+### [我未阅读完成, 我需要返回阅读](./read_documents.md)
 
-### [我已阅读完成, 直接进入下一步!](./fill_form.md)
+### [我已阅读完成, 直接进入下一步](./fill_form.md)

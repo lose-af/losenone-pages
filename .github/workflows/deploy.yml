@@ -46,14 +46,8 @@ jobs:
       - name: Install Dependencies
         run: yarn install --frozen-lockfile
 
-      - name: Run Prettier
-        run: yarn prettier:check
-
-      - name: Run ESLint
-        run: yarn eslint:check
-
-      - name: Run Markdown Lint
-        run: yarn mdlint:check
+      - name: Run Linters
+        run: yarn lint:check
 
       - name: Build
         run: yarn pages:build

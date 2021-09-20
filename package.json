@@ -10,14 +10,19 @@
   "scripts": {
     "pages:dev": "vuepress dev pages",
     "pages:build": "vuepress build pages",
+    "lint:check": "prettier --check . && eslint . --ext .js,.ts,.vue,.html && markdownlint-cli2 \"**/*.md\" \"#node_modules\" && lint-md **/*.md",
+    "lint:fix": "prettier --write . && eslint . --fix --ext .js,.ts,.vue,.html && markdownlint-cli2-fix \"**/*.md\" \"#node_modules\" && lint-md **/*.md --fix",
     "prettier:check": "prettier --check .",
     "prettier:fix": "prettier --write .",
     "eslint:check": "eslint . --ext .js,.ts,.vue,.html",
     "eslint:fix": "eslint . --fix --ext .js,.ts,.vue,.html",
     "mdlint:check": "markdownlint-cli2 \"**/*.md\" \"#node_modules\"",
-    "mdlint:fix": "markdownlint-cli2-fix \"**/*.md\" \"#node_modules\""
+    "mdlint:fix": "markdownlint-cli2-fix \"**/*.md\" \"#node_modules\"",
+    "lint-md:check": "lint-md **/*.md",
+    "lint-md:fix": "lint-md **/*.md --fix"
   },
   "devDependencies": {
+    "@lint-md/cli": "^0.1.5",
     "autoprefixer": "^10.3.1",
     "eslint": "^7.30.0",
     "eslint-config-airbnb-base": "^14.2.1",
