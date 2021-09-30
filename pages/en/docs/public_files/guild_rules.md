@@ -21,12 +21,15 @@ Having registration and supervision system in place, our guild system of our ser
 1. Player can set up their own guilds provided they have more than 3 players and registrate the guild by contacting the adimins. Before that, they should read and abide all the following regulations thouroughly.
 2. Guild’s chat group must be supervised by our admin’s team:(For the purpose of avoiding disputes and misunderstandings among the groups of players)
 
-   - The chief sever's administrator `雨季先森 | MonsoonR`.
-   - The adminstrator of order (`月光 | HMlight`).
-   - Two admins from different guilds as supervisors.
-     Having uncensored secret chat group is strictly prohibited. Once found, both the organizers and participants will be removed from the whitelist of the server. Additional punishment will be imflicted on them according to the nature and severeness of their offenses.
+3.The chief sever's administrator `雨季先森 | MonsoonR`.
 
-3. Prohibited Behaviors:
+4.The adminstrator of order (`月光 | HMlight`).
+
+5.Two admins from different guilds as supervisors.Having uncensored secret chat group is strictly prohibited. Once found, both the organizers and participants will be removed from the whitelist of the server. Additional punishment will be imflicted on them according to the nature and severeness of their offenses.
+
+6.Once the guild has been registered for over 3 months without violating any rules or regulations, the guild master can apply for an exclusive guild page on our official community website. (The content of the guild's exclusive page needs to be submitted by the guild master and this content must not violate any community rules.)
+
+7. Prohibited Behaviors:
 
    - Slandering and provoking other guilds is strictly prohibited, Once found, those involved will join arbitration group chat awaiting for arbitration and will be punished base on the nature and servereness of their acts according to the regulations and rules of the server. (this applies to all players)
    - Any form of sabotage including but not limit to the destruction of the buildings and infrastructure of other guilds is strictly prohibited and all offenders will be permanently removed from server’s whitelist and subjectto further punishment.
