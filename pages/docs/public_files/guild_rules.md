@@ -28,7 +28,7 @@ English version: [Click Here](/en/docs/public_files/guild_rules.md)
 
 5. 公会群至少两名来自不同公会的服务器管理员作为监督员.严禁脱离监督制的内群, 一经发现取消内群组织者和参与者游戏内白名单, 根据情节严重性追加惩罚.
 
-6. 公会成立超过3个月, 且公会无违规记录, 可向洛书南社区申请公会专属页面. 公会专属页面内容需要由公会自行填充, 其内容不得违反 [《洛书南 | Losenone 社区管理条例》](./moderation_rules.md) 与 [《Kawaii 公共社区交流公约》](https://kawaii.yaasasi.cn/).
+6. 公会成立超过 3 个月, 且公会无违规记录, 可向洛书南社区申请公会专属页面. 公会专属页面内容需要由公会自行填充, 其内容不得违反 [《洛书南 | Losenone 社区管理条例》](./moderation_rules.md) 与 [《Kawaii 公共社区交流公约》](https://kawaii.yaasasi.cn/).
 
 7. 公会禁止事项:
 
