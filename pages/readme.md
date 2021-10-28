@@ -16,7 +16,7 @@ lang: zh-CN
 
 关于本次存档数据的丢失我们再次深表歉意, 作为一名玩家, 我深知这是一件非常非常令人难过的消息, 真的非常抱歉. 我们会把本周目地图上传至云端, 并在官网发布下载链接, 各位可以通过 OneDrive 等渠道下载存档文件.
 
-[下载地址](https://files.yaasasi.cn/Losenone/worlds/weeks/losenone_3.zip)
+[下载地址](https://files.yaasasi.cn/Losenone/worlds/weeks)
 
 2021 年 10 月 27 日——洛书南 | Losenone
 
