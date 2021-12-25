@@ -59,8 +59,6 @@ export const en: SidebarConfig = {
       children: [
         "/en/docs/public_files/",
         "/en/docs/public_files/moderation_rules.md",
-        "/en/docs/public_files/review_rules.md",
-        "/en/docs/public_files/guild_rules.md",
       ],
     },
   ],

@@ -59,8 +59,6 @@ export const zh: SidebarConfig = {
       children: [
         "/docs/public_files/",
         "/docs/public_files/moderation_rules.md",
-        "/docs/public_files/review_rules.md",
-        "/docs/public_files/guild_rules.md",
       ],
     },
   ],
