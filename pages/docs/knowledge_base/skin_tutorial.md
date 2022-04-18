@@ -40,8 +40,8 @@ lang: zh-CN
 
 #### PCL2 启动器
 
-1. 启动 PCL2 启动器, 下载 Minecraft: Java Edition 1.17.1 版本.
-2. 打开 Minecraft: Java Edition 1.17.1 版本设置, 滑动到最底下的服务器选项, 在登录方式中选择第三方登录, 并按照如下图方式输入内容: `https://my.losenone.cn/api/yggdrasil`.
+1. 启动 PCL2 启动器, 下载 Minecraft: Java Edition .
+2. 打开 Minecraft: Java Edition 版本设置, 滑动到最底下的服务器选项, 在登录方式中选择第三方登录, 并按照如下图方式输入内容: `https://my.losenone.cn/api/yggdrasil`.
    ![PCL2 配置示例](./skin_tutorial_assets/pcl_conf.png)
 3. 配置完成后返回到启动器主页面, 输入先前注册好的皮肤站帐户与密码, 点击启动游戏即可.
 
