@@ -13,3 +13,5 @@ prev: false
 > [服务器指令指南](./server_command.md)
 >
 > [社区皮肤站使用指南](./skin_tutorial.md)
+>
+> [玩家行为记录自助查询系统使用教程](./behavior_search_tutorial.md)
