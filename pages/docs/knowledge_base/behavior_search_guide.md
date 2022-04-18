@@ -7,7 +7,7 @@ lang: zh-CN
 
 ## 阅读前须知
 
-1. 玩家行为记录自助查询系统由 [@Nixieboluo](https://github.com/Nixieboluo) 开发, 使用教程由 [@Yaasasi](https://github.com/Yaasasi) 撰写.
+1. 玩家行为记录自助查询系统由 [@Nixieboluo](https://github.com/Nixieboluo) 开发, 使用指南由 [@Yaasasi](https://github.com/Yaasasi) 撰写.
 
 2. 玩家行为记录自助查询系统目前仅用于极境之地服务器（洛书南 4th 基岩服务器）, 仅供极境之地玩家查询行为记录使用, 请勿用于破坏、盗窃等不良事件, 请勿外传!
 
